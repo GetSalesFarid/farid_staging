@@ -1,0 +1,3 @@
+select 
+  test
+from farid_test.test.lol
